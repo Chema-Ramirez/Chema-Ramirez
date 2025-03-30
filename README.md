@@ -16,7 +16,7 @@
 
 🌱 I'm currently learning JAVA to expand my knowledge in web/mobile and backend application development.
 
-💪🏼 I love challenges and am always interested in learning new things in the programming world.
+💪🏼 I love challenges and I am always interested in learning new things in the programming world.
 
 📫 Feel free to contact me at josemaria.ramirez.dev@gmail.com.
 <!--Intro end-->
